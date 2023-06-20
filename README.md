@@ -119,7 +119,7 @@ El proyecto se organiza de la siguinte manera:
     *	_/DB_: contiene las funciones necesarias para realizar unha conexión con la Base de Datos.
     *	_/model_: contine las entidades para la comunicación con la Base de Datos mediante SQLAlchemy o ElasticSearch.
     *	_/parsers_: continne las clases para analizar, limpiar y extraer datos de diferentes fuentes de información.
-    *	_/semantic_search_: contiene las funciones necesarias para entrenar, validar y probar el sistema de búsqueda semántica. (Ref.)
+    *	_/semantic_search_: contiene las funciones necesarias para entrenar, validar y probar el sistema de búsqueda semántica. (Ml-Recipes, s. f.)
     *	_/shared_: contiene las funciones comunes empleadas por diferentes módulos, como la lectura o escritura de ficheros.
     *	_/transformation_: contiene las funciones necesarias para preparar los conjuntos de datos.
     *	_/view_: contiene las funciones relacionadas con la vista que se presenta al usuario de la aplicación.
