@@ -59,7 +59,7 @@ Los scripts disponibles según el tipo de usuario son los seguintes:
 
 ## Scripts de usuario
 
-* ```chatbot.py```: contiene la lógica necesaria para la ejecución del bot conversacional. Carga el modelo de _/file/chatbot_model_
+* ```chatbot.py```: contiene la lógica necesaria para la ejecución del bot conversacional. Carga el modelo de _/file/chatbot_model_. Los pesos del modelo entrenado están disponibles en [HuggingFace](https://huggingface.co/Angel3245/PHS-BERT-finetuned-MentalFAQ).
 
 ## Scripts de desarrollador
 
